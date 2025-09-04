@@ -1,6 +1,8 @@
 # HOT-Review: A Comprehensive Review on Recent Advances on Hyperspectral Object Tracking (HOT)
 
 
+# Year (2001):
+1. Streit, Roy L. Tracking targets with specified spectra using the H-PMHT algorithm. No. NUWCNPTTD11291. 2001.
 
 # Year (2000):
 1. Merton, Ray N., and Eli A. Silver. "Tracking vegetation spectral trajectories with multi-temporal hysteresis models." Proceedings of the Ninth Annual JPL Airborne Earth Science Workshop, Jet Propulsion Laboratory, Pasadena, CA. 2000.
