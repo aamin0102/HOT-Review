@@ -32,9 +32,8 @@
 29. Wang, Hanzheng, et al. "Ssf-net: Spatial-spectral fusion network with spectral angle awareness for hyperspectral object tracking." IEEE Transactions on Image Processing (2025).
 30. Wang, Hanzheng, et al. "Ssf-net: Spatial-spectral fusion network with spectral angle awareness for hyperspectral object tracking." IEEE Transactions on Image Processing (2025).
 31. Zhao, Lin, et al. "MVP-HOT: A Moderate Visual Prompt for Hyperspectral Object Tracking." Journal of Visual Communication and Image Representation 105 (2024): 104326.
-32. Yu, Shuangjiang, et al. "Hyperspectral attention network for object tracking." Sensors 24.19 (2024): 6178.
-33. Wang, Zhuowei, et al. "A One-Step Transformer-based Adaptive Tracking Network for hyperspectral videos: Z. Wang et al." Signal, Image and Video Processing 19.11 (2025): 936.
-34. 
+32. Wang, Zhuowei, et al. "A One-Step Transformer-based Adaptive Tracking Network for hyperspectral videos: Z. Wang et al." Signal, Image and Video Processing 19.11 (2025): 936.
+
 
 
 # Year (2024)
@@ -42,7 +41,7 @@
 2. Yao, Rui, et al. "Hyperspectral object tracking with dual-stream prompt." IEEE Transactions on Geoscience and Remote Sensing (2024).
 3. Chen, Yuzeng, et al. "SENSE: Hyperspectral video object tracker via fusing material and motion cues." Information Fusion 109 (2024): 102395.
 4. Guo, Gaowei, et al. "SPTrack: Spectral similarity prompt learning for hyperspectral object tracking." Remote Sensing 16.16 (2024): 2975.
-5. 
+5. Yu, Shuangjiang, et al. "Hyperspectral attention network for object tracking." Sensors 24.19 (2024): 6178.
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
