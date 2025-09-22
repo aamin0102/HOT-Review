@@ -67,6 +67,8 @@
 27. Hu, Menghan, et al. "Hyperspectral tracking of in situ tissue regeneration and remodeling in a rationally designed biological scaffold in a rat subcutaneous model." IEEE Transactions on Instrumentation and Measurement 73 (2024): 1-10.
 28. Sun, Haodong, et al. "Hyperspectral low altitude UAV target tracking algorithm based on deep learning and improved KCF." Frontiers in Physics 12 (2024): 1341353.
 
+# Year (2023)
+1. 
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
