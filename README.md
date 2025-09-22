@@ -33,8 +33,7 @@
 30. Wu, Li, et al. "Near-Infrared Hyperspectral Target Tracking Based on Background Information and Spectral Position Prediction." Applied Sciences (2076-3417) 15.8 (2025).
 31. Wang, Zhuowei, et al. "A One-Step Transformer-based Adaptive Tracking Network for hyperspectral videos: Z. Wang et al." Signal, Image and Video Processing 19.11 (2025): 936.
 32. Wang, Ye, et al. "HTACPE: A hybrid transformer with adaptive content and position embedding for sample learning efficiency of hyperspectral tracker." IEEE Transactions on Multimedia (2025).
-33. 
-34. 
+33. Makarenko, Maksim, et al. "Hardware-accelerated integrated optoelectronic platform towards real-time high-resolution hyperspectral video understanding." Nature Communications 15.1 (2024): 7051.
 
 
 
@@ -67,8 +66,7 @@
 26. Pei, Xiaofang, et al. "Hyperspectral Target Tracking Based on Deep Spectral-Ternary Concatenated Features", Laser and Optoelectronics Progress, (2024).
 27. Hu, Menghan, et al. "Hyperspectral tracking of in situ tissue regeneration and remodeling in a rationally designed biological scaffold in a rat subcutaneous model." IEEE Transactions on Instrumentation and Measurement 73 (2024): 1-10.
 28. Sun, Haodong, et al. "Hyperspectral low altitude UAV target tracking algorithm based on deep learning and improved KCF." Frontiers in Physics 12 (2024): 1341353.
-29. Johnson, Santina C., et al. "Hyperspectral imaging and dynamic region of interest tracking approaches to quantify localized cAMP signals." Biochemical Society Transactions 52.1 (2024): 191-203.
-30. 
+
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
