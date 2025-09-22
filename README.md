@@ -61,6 +61,9 @@
 20. Wang, Hanzheng, Yangfan Li, and Wei Li. "Spectral-Temporal Token-Guided Prompt Mamba for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
 21. He, Wangquan, et al. "DeSAM2: Detection-Driven SAM2 for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
 22. Mohamed, Shaheer, et al. "Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+23. Medellin, Anthony, et al. "Amodal Memory-Based Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+24. Zhou, Jiawei, Jiaqi Zhang, and Yanni Dong. "Incorporating Prompt Learning and Adaptive Dropping Hyperspectral Information Tracker for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+25. Wan, Huang, et al. "SPA-Tracker: Spectral Prompt Adaptation for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
