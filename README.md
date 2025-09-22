@@ -64,6 +64,11 @@
 23. Medellin, Anthony, et al. "Amodal Memory-Based Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
 24. Zhou, Jiawei, Jiaqi Zhang, and Yanni Dong. "Incorporating Prompt Learning and Adaptive Dropping Hyperspectral Information Tracker for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
 25. Wan, Huang, et al. "SPA-Tracker: Spectral Prompt Adaptation for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+26. Pei, Xiaofang, et al. "Hyperspectral Target Tracking Based on Deep Spectral-Ternary Concatenated Features", Laser and Optoelectronics Progress, (2024).
+27. Hu, Menghan, et al. "Hyperspectral tracking of in situ tissue regeneration and remodeling in a rationally designed biological scaffold in a rat subcutaneous model." IEEE Transactions on Instrumentation and Measurement 73 (2024): 1-10.
+28. Sun, Haodong, et al. "Hyperspectral low altitude UAV target tracking algorithm based on deep learning and improved KCF." Frontiers in Physics 12 (2024): 1341353.
+29. Johnson, Santina C., et al. "Hyperspectral imaging and dynamic region of interest tracking approaches to quantify localized cAMP signals." Biochemical Society Transactions 52.1 (2024): 191-203.
+30. 
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
