@@ -48,7 +48,19 @@
 7. Zhao, Lin, et al. "MVP-HOT: A Moderate Visual Prompt for Hyperspectral Object Tracking." Journal of Visual Communication and Image Representation 105 (2024): 104326.
 8. Islam, Mohammad Aminul, et al. "Hy-tracker: A novel framework for enhancing efficiency and accuracy of object tracking in hyperspectral videos." IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1-14.
 9. Chen, Yuzeng, et al. "Phtrack: Prompting for hyperspectral video tracking." IEEE Transactions on Geoscience and Remote Sensing (2024).
-10. 
+10. Liu, Zhenqi, et al. "A deep temporal-spectral-spatial anchor-free siamese tracking network for hyperspectral video object tracking." IEEE Transactions on Geoscience and Remote Sensing (2024).
+11. Guo, Gaowei, et al. "BATrack: End-to-End Tracking with Band Attention for Hyperspectral Video." 2024 2nd International Conference on Algorithm, Image Processing and Machine Vision (AIPMV). IEEE, 2024.
+12. Qian, Zixuan, et al. "Track Hyperspectral Videos via Segment Anything Model 2." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+13. Chen, Langkun, et al. "Hyperspectral Object Tracking with Low-Rank Adaptation." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+14. Li, Zhuanfeng, et al. "Material-guided multiview fusion network for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1-15.
+15. Chen, Yuzeng, and Qiangqiang Yuan. "HySSTP: Hyperspectral Video Tracker Embedding Multi-Modal Spatial-Spectral-Temporal Features." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+16. Wu, Yinan, et al. "Domain adaptation-aware transformer for hyperspectral object tracking." IEEE Transactions on Circuits and Systems for Video Technology 34.9 (2024): 8041-8052.
+17. Jiang, Xiao, et al. "A channel adaptive dual siamese network for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1-12.
+18. Wang, Hanzheng, et al. "Transformer-based band regrouping with feature refinement for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1-14.
+19. Chen, Yuzeng, et al. "SPIRIT: Spectral awareness interaction network with dynamic template for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2023): 1-16.
+20. Wang, Hanzheng, Yangfan Li, and Wei Li. "Spectral-Temporal Token-Guided Prompt Mamba for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+21. He, Wangquan, et al. "DeSAM2: Detection-Driven SAM2 for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
+22. 
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
