@@ -33,7 +33,8 @@
 30. Zhao, Lin, et al. "MVP-HOT: A Moderate Visual Prompt for Hyperspectral Object Tracking." Journal of Visual Communication and Image Representation 105 (2024): 104326.
 31. Wang, Zhuowei, et al. "A One-Step Transformer-based Adaptive Tracking Network for hyperspectral videos: Z. Wang et al." Signal, Image and Video Processing 19.11 (2025): 936.
 32. Wang, Ye, et al. "HTACPE: A hybrid transformer with adaptive content and position embedding for sample learning efficiency of hyperspectral tracker." IEEE Transactions on Multimedia (2025).
-33. 
+33. Wu, Li, et al. "Near-Infrared Hyperspectral Target Tracking Based on Background Information and Spectral Position Prediction." Applied Sciences (2076-3417) 15.8 (2025).
+34. 
 
 
 
