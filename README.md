@@ -30,9 +30,8 @@
 27. Xiong, Fengchao, et al. "Spatial-Spectral-Temporal Correlation Filter for Hyperspectral Object Tracking." IEEE Transactions on Geoscience and Remote Sensing (2025).
 28. Chen, Yuzeng, et al. "Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement." IEEE Transactions on Image Processing (2025).
 29. Wang, Hanzheng, et al. "Ssf-net: Spatial-spectral fusion network with spectral angle awareness for hyperspectral object tracking." IEEE Transactions on Image Processing (2025).
-30. Wang, Hanzheng, et al. "Ssf-net: Spatial-spectral fusion network with spectral angle awareness for hyperspectral object tracking." IEEE Transactions on Image Processing (2025).
-31. Zhao, Lin, et al. "MVP-HOT: A Moderate Visual Prompt for Hyperspectral Object Tracking." Journal of Visual Communication and Image Representation 105 (2024): 104326.
-32. Wang, Zhuowei, et al. "A One-Step Transformer-based Adaptive Tracking Network for hyperspectral videos: Z. Wang et al." Signal, Image and Video Processing 19.11 (2025): 936.
+30. Zhao, Lin, et al. "MVP-HOT: A Moderate Visual Prompt for Hyperspectral Object Tracking." Journal of Visual Communication and Image Representation 105 (2024): 104326.
+31. Wang, Zhuowei, et al. "A One-Step Transformer-based Adaptive Tracking Network for hyperspectral videos: Z. Wang et al." Signal, Image and Video Processing 19.11 (2025): 936.
 
 
 
