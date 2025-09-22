@@ -33,7 +33,8 @@
 30. Wang, Hanzheng, et al. "Ssf-net: Spatial-spectral fusion network with spectral angle awareness for hyperspectral object tracking." IEEE Transactions on Image Processing (2025).
 31. Zhao, Lin, et al. "MVP-HOT: A Moderate Visual Prompt for Hyperspectral Object Tracking." Journal of Visual Communication and Image Representation 105 (2024): 104326.
 32. Yu, Shuangjiang, et al. "Hyperspectral attention network for object tracking." Sensors 24.19 (2024): 6178.
-33. 
+33. Wang, Zhuowei, et al. "A One-Step Transformer-based Adaptive Tracking Network for hyperspectral videos: Z. Wang et al." Signal, Image and Video Processing 19.11 (2025): 936.
+34. 
 
 
 # Year (2024)
