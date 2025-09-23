@@ -66,7 +66,6 @@
 27. Hu, Menghan, et al. "Hyperspectral tracking of in situ tissue regeneration and remodeling in a rationally designed biological scaffold in a rat subcutaneous model." IEEE Transactions on Instrumentation and Measurement 73 (2024): 1-10.
 28. Sun, Haodong, et al. "Hyperspectral low altitude UAV target tracking algorithm based on deep learning and improved KCF." Frontiers in Physics 12 (2024): 1341353.
 29. Makarenko, Maksim, et al. "Hardware-accelerated integrated optoelectronic platform towards real-time high-resolution hyperspectral video understanding." Nature Communications 15.1 (2024): 7051.
-30. Liu, Zhenqi, et al. "A deep temporal-spectral-spatial anchor-free siamese tracking network for hyperspectral video object tracking." IEEE Transactions on Geoscience and Remote Sensing (2024).
 
 # Year (2023)
 1. Gao, Long, et al. "CBFF-Net: A new framework for efficient and accurate hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 61 (2023): 1-14.
