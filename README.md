@@ -117,7 +117,9 @@
 14. Su, Yuru, et al. "Gaussian information entropy based band reduction for unsupervised hyperspectral video tracking." IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2022.
 15. Zhao, Chunhui, et al. "RANet: A reliability-guided aggregation network for hyperspectral and RGB fusion tracking." Remote Sensing 14.12 (2022): 2765.
 16. Li, Weiping, Mingjing Li, and Lixia Cao. "Improved hyperspectral target tracking algorithm." 2022 2nd International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology (CEI). IEEE, 2022.
-17. 
+17. Shi, Zonghan and Zhao, Haitao, "Hyperspectral target tracking based on attention mechanism and additive angular margin loss", Journal of Applied Optics, 10.5768/JAO202243.0502003, (2022).
+18. 
+
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
