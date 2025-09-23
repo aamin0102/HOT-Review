@@ -120,6 +120,7 @@
 17. Shi, Zonghan and Zhao, Haitao, "Hyperspectral target tracking based on attention mechanism and additive angular margin loss", Journal of Applied Optics, 10.5768/JAO202243.0502003, (2022).
 18. Xu, Qingyu, et al. "Fast and Robust Hyperspectral Object Tracking Algorithm", DOI: 10.12132/ISSN.1673-5048.2021.0131, Aero Weaponry, (2022).
 19. Ouyang, Er, et al. "Band regrouping and response-level fusion for end-to-end hyperspectral object tracking." IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5.
+20. 
 
 
 # Year (2004)
