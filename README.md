@@ -118,7 +118,8 @@
 15. Zhao, Chunhui, et al. "RANet: A reliability-guided aggregation network for hyperspectral and RGB fusion tracking." Remote Sensing 14.12 (2022): 2765.
 16. Li, Weiping, Mingjing Li, and Lixia Cao. "Improved hyperspectral target tracking algorithm." 2022 2nd International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology (CEI). IEEE, 2022.
 17. Shi, Zonghan and Zhao, Haitao, "Hyperspectral target tracking based on attention mechanism and additive angular margin loss", Journal of Applied Optics, 10.5768/JAO202243.0502003, (2022).
-18. 
+18. Xu, Qingyu, et al. "Fast and Robust Hyperspectral Object Tracking Algorithm", DOI: 10.12132/ISSN.1673-5048.2021.0131, Aero Weaponry, (2022).
+19. 
 
 
 # Year (2004)
