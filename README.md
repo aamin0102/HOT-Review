@@ -68,7 +68,36 @@
 29. Makarenko, Maksim, et al. "Hardware-accelerated integrated optoelectronic platform towards real-time high-resolution hyperspectral video understanding." Nature Communications 15.1 (2024): 7051.
 
 # Year (2023)
-1. 
+1. Gao, Long, et al. "CBFF-Net: A new framework for efficient and accurate hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 61 (2023): 1-14.
+2. Li, Zhuanfeng, et al. "Learning a deep ensemble network with band importance for hyperspectral object tracking." IEEE Transactions on Image Processing 32 (2023): 2901-2914.
+3. Li, Wei, et al. "SiamBAG: Band attention grouping-based Siamese object tracking network for hyperspectral videos." IEEE Transactions on Geoscience and Remote Sensing 61 (2023): 1-12.
+4. Gao, Long, et al. "A transformer-based network for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 61 (2023): 1-11.
+5. Zhao, Chunhui, et al. "TMTNet: A transformer-based multimodality information transfer network for hyperspectral object tracking." Remote Sensing 15.4 (2023): 1107.
+6. Chen, Yuzeng, et al. "SPIRIT: Spectral awareness interaction network with dynamic template for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2023): 1-16.
+7. Sun, Chen, et al. "Siamohot: A lightweight dual siamese network for onboard hyperspectral object tracking via joint spatial-spectral knowledge distillation." IEEE Transactions on Geoscience and Remote Sensing 61 (2023): 1-12.
+8. Islam, Mohammad Aminul, et al. "Background-aware band selection for object tracking in hyperspectral videos." IEEE Geoscience and Remote Sensing Letters 20 (2023): 1-5.
+9. Zhang, Yifan, et al. "A fast hyperspectral tracking method via channel selection." Remote Sensing 15.6 (2023): 1557.
+10. Tang, Yiming, et al. "A Siamese network-based tracking framework for hyperspectral video." Neural Computing and Applications 35.3 (2023): 2381-2397.
+11. Wang, Shiqing, et al. "AD-SiamRPN: anti-deformation object tracking via an improved Siamese region proposal network on hyperspectral videos." Remote Sensing 15.7 (2023): 1731.
+12. Li, Zhaoxu, et al. "Rawtrack: Toward single object tracking on mosaic hyperspectral raw data." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+13. Wang, Ye, et al. "A spectral–spatial transformer fusion method for hyperspectral video tracking." Remote Sensing 15.7 (2023): 1735.
+14. Zhao, Lin, et al. "Domain transfer and difference-aware band weighting for object tracking in hyperspectral videos." International Journal of Remote Sensing 44.4 (2023): 1115-1131.
+15. Zhu, Xuguang, et al. "DSP-Net: A Dynamic Spectral–Spatial Joint Perception Network for Hyperspectral Target Tracking." IEEE Geoscience and Remote Sensing Letters 20 (2023): 1-5.
+16. Tan, Yuedong, et al. "HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+17. Xie, Shaoxiong, et al. "Vp-hot: Visual prompt for hyperspectral object tracking." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+18. Zhao, Dong, et al. "Hyperspectral video target tracking based on pixel-wise spectral matching reduction and deep spectral cascading texture features." Signal Processing 209 (2023): 109033.
+19. Zhang, Zhe, et al. "Hyperspectral video tracker based on spectral deviation reduction and a double siamese network." Remote Sensing 15.6 (2023): 1579.
+20. Liu, Hongjiao, et al. "Multi-band hyperspectral object tracking: Leveraging spectral information prompts and spectral scale-aware representation." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+21. Islam, Mohammad Aminul, Wangzhi Xing, and Jun Zhou. "Multi modality Siamese feature fusion transformer tracker for object tracking from hyperspectral videos." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+22. Wang, Ye, et al. "Hsptrack: Hyperspectral sequence prediction tracker with transformers." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+23. Muszyński, Rafał, and Hiep Luong. "Helios: Hyperspectral hindsight ostracker." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+24. Ji, Yuqing, et al. "DHFN: A Dual-Branch Network with Hybrid Fusion for Spatial-Aware Hyperspectral Object Tracking." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+25. Qian, Kun, et al. "SiamPKHT: Hyperspectral Siamese Tracking Based on Pyramid Shuffle Attention and Knowledge Distillation." Sensors 23.23 (2023): 9554.
+26. Guo, Huihui, et al. "Hyperspectral Video Tracker Based on Anomaly Suppression and Multi-Feature Integration." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+27. Ma, Shaoqi, Abdolraheem Khader, and Liang Xiao. "Complementary features-aware attentive multi-adapter network for hyperspectral object tracking." Fourteenth International Conference on Graphics and Image Processing (ICGIP 2022). Vol. 12705. SPIE, 2023.
+28. Liu, Chang, Jiawei Zhou, and Yanni Dong. "Adaptive hyperspectral siamese network in transformer." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
+29. Lou, Hongmin, et al. "Hyperspectral Video Target Tracking Based on TensorSSA and Deep Features." 2023 IEEE 6th International Conference on Electronic Information and Communication Technology (ICEICT). IEEE, 2023.
+30. Liu, Hongjiao, et al. "An Attention-Guided Matching Association Network for Hyperspectral and RGB Fusion Tracking." IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023.
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
