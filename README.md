@@ -98,6 +98,8 @@
 28. Liu, Chang, Jiawei Zhou, and Yanni Dong. "Adaptive hyperspectral siamese network in transformer." 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2023.
 29. Lou, Hongmin, et al. "Hyperspectral Video Target Tracking Based on TensorSSA and Deep Features." 2023 IEEE 6th International Conference on Electronic Information and Communication Technology (ICEICT). IEEE, 2023.
 30. Liu, Hongjiao, et al. "An Attention-Guided Matching Association Network for Hyperspectral and RGB Fusion Tracking." IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023.
+31. Chen, Lulu, Yongqiang Zhao, and Seong G. Kong. "Sfa-guided mosaic transformer for tracking small objects in snapshot spectral imaging." ISPRS Journal of Photogrammetry and Remote Sensing 204 (2023): 223-236.
+    
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
