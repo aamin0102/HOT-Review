@@ -119,11 +119,13 @@
 16. Li, Weiping, Mingjing Li, and Lixia Cao. "Improved hyperspectral target tracking algorithm." 2022 2nd International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology (CEI). IEEE, 2022.
 17. Shi, Zonghan and Zhao, Haitao, "Hyperspectral target tracking based on attention mechanism and additive angular margin loss", Journal of Applied Optics, 10.5768/JAO202243.0502003, (2022).
 18. Xu, Qingyu, et al. "Fast and Robust Hyperspectral Object Tracking Algorithm", DOI: 10.12132/ISSN.1673-5048.2021.0131, Aero Weaponry, (2022).
+19. 
 
 
 # Year (2022):
 1. Ouyang, Er, et al. "Band regrouping and response-level fusion for end-to-end hyperspectral object tracking." IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5.
-2. 
+2. Liu, Zhenqi, et al. "Unsupervised Deep Hyperspectral Video Target Tracking and High Spectral-Spatial-Temporal Resolution (H³) Benchmark Dataset." IEEE Transactions on Geoscience and Remote Sensing 60 (2021): 1-14.
+3. 
 
 
 # Year (2004)
