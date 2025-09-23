@@ -99,7 +99,25 @@
 29. Lou, Hongmin, et al. "Hyperspectral Video Target Tracking Based on TensorSSA and Deep Features." 2023 IEEE 6th International Conference on Electronic Information and Communication Technology (ICEICT). IEEE, 2023.
 30. Liu, Hongjiao, et al. "An Attention-Guided Matching Association Network for Hyperspectral and RGB Fusion Tracking." IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023.
 31. Chen, Lulu, Yongqiang Zhao, and Seong G. Kong. "Sfa-guided mosaic transformer for tracking small objects in snapshot spectral imaging." ISPRS Journal of Photogrammetry and Remote Sensing 204 (2023): 223-236.
-    
+
+# Year (2022)
+1. Liu, Zhenqi, et al. "SiamHYPER: Learning a hyperspectral object tracker from an RGB-based tracker." IEEE Transactions on Image Processing 31 (2022): 7116-7129.
+2. Lei, Jie, et al. "Spatial–spectral cross-correlation embedded dual-transfer network for object tracking using hyperspectral videos." Remote Sensing 14.15 (2022): 3512.
+3. Hou, Zengfu, et al. "Spatial–spectral weighted and regularized tensor sparse correlation filter for object tracking in hyperspectral videos." IEEE Transactions on Geoscience and Remote Sensing 60 (2022): 1-12.
+4. Tang, Yiming, Yufei Liu, and Hong Huang. "Target-aware and spatial-spectral discriminant feature joint correlation filters for hyperspectral video object tracking." Computer Vision and Image Understanding 223 (2022): 103535.
+5. Zhao, Dong, et al. "Hyperspectral video target tracking based on deep edge convolution feature and improved context filter." Remote Sensing 14.24 (2022): 6219.
+6. Zhang, Yifan, et al. "A fast hyperspectral object tracking method based on channel selection strategy." 2022 12th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2022.
+7. Li, Zhuanfeng, et al. "Material-guided siamese fusion network for hyperspectral object tracking." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022.
+8. Zhang, Zhe, et al. "Hyperspectral video target tracking based on deep features with spectral matching reduction and adaptive scale 3d hog features." Remote Sensing 14.23 (2022): 5958.
+9. Tang, Yiming, et al. "Robust hyperspectral object tracking by exploiting background-aware spectral information with band selection network." IEEE Geoscience and Remote Sensing Letters 19 (2022): 1-5.
+10. Zhao, Chunhui, et al. "TFTN: A transformer-based fusion tracking framework of hyperspectral and RGB." IEEE Transactions on Geoscience and Remote Sensing 60 (2022): 1-15.
+11. Wang, Ye, et al. "Spectral-spatial-aware transformer fusion network for hyperspectral object tracking." 2022 12th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2022.
+12. Wang, ShiQing, Kun Qian, and Peng Chen. "BS-SiamRPN: Hyperspectral video tracking based on band selection and the Siamese region proposal network." 2022 12th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2022.
+13. Su, Nan, et al. "A transformer-based three-branch Siamese network for hyperspectral object tracking." 2022 12th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2022.
+14. Su, Yuru, et al. "Gaussian information entropy based band reduction for unsupervised hyperspectral video tracking." IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2022.
+15. Zhao, Chunhui, et al. "RANet: A reliability-guided aggregation network for hyperspectral and RGB fusion tracking." Remote Sensing 14.12 (2022): 2765.
+16. Li, Weiping, Mingjing Li, and Lixia Cao. "Improved hyperspectral target tracking algorithm." 2022 2nd International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology (CEI). IEEE, 2022.
+17. 
 
 # Year (2004)
 1. López-Peña, Fernando, and Richard J. Duro. "A hyperspectral based multisensor system for marine oil spill detection, analysis and tracking." International Conference on Knowledge-Based and Intelligent Information and Engineering Systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
