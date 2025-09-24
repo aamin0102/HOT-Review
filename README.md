@@ -55,7 +55,7 @@
 16. Wu, Yinan, et al. "Domain adaptation-aware transformer for hyperspectral object tracking." IEEE Transactions on Circuits and Systems for Video Technology 34.9 (2024): 8041-8052.
 17. Jiang, Xiao, et al. "A channel adaptive dual siamese network for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1-12.
 18. Wang, Hanzheng, et al. "Transformer-based band regrouping with feature refinement for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2024): 1-14.
-19. Chen, Yuzeng, et al. "SPIRIT: Spectral awareness interaction network with dynamic template for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2023): 1-16.
+19. Makarenko, Maksim, et al. "Hardware-accelerated integrated optoelectronic platform towards real-time high-resolution hyperspectral video understanding." Nature Communications 15.1 (2024): 7051.
 20. Wang, Hanzheng, Yangfan Li, and Wei Li. "Spectral-Temporal Token-Guided Prompt Mamba for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
 21. He, Wangquan, et al. "DeSAM2: Detection-Driven SAM2 for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
 22. Mohamed, Shaheer, et al. "Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking." 2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS). IEEE, 2024.
@@ -65,7 +65,6 @@
 26. Pei, Xiaofang, et al. "Hyperspectral Target Tracking Based on Deep Spectral-Ternary Concatenated Features", Laser and Optoelectronics Progress, (2024).
 27. Hu, Menghan, et al. "Hyperspectral tracking of in situ tissue regeneration and remodeling in a rationally designed biological scaffold in a rat subcutaneous model." IEEE Transactions on Instrumentation and Measurement 73 (2024): 1-10.
 28. Sun, Haodong, et al. "Hyperspectral low altitude UAV target tracking algorithm based on deep learning and improved KCF." Frontiers in Physics 12 (2024): 1341353.
-29. Makarenko, Maksim, et al. "Hardware-accelerated integrated optoelectronic platform towards real-time high-resolution hyperspectral video understanding." Nature Communications 15.1 (2024): 7051.
 
 # Year (2023)
 1. Gao, Long, et al. "CBFF-Net: A new framework for efficient and accurate hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 61 (2023): 1-14.
@@ -99,6 +98,7 @@
 29. Lou, Hongmin, et al. "Hyperspectral Video Target Tracking Based on TensorSSA and Deep Features." 2023 IEEE 6th International Conference on Electronic Information and Communication Technology (ICEICT). IEEE, 2023.
 30. Liu, Hongjiao, et al. "An Attention-Guided Matching Association Network for Hyperspectral and RGB Fusion Tracking." IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023.
 31. Chen, Lulu, Yongqiang Zhao, and Seong G. Kong. "Sfa-guided mosaic transformer for tracking small objects in snapshot spectral imaging." ISPRS Journal of Photogrammetry and Remote Sensing 204 (2023): 223-236.
+32. Chen, Yuzeng, et al. "SPIRIT: Spectral awareness interaction network with dynamic template for hyperspectral object tracking." IEEE Transactions on Geoscience and Remote Sensing 62 (2023): 1-16.
 
 # Year (2022)
 1. Liu, Zhenqi, et al. "SiamHYPER: Learning a hyperspectral object tracker from an RGB-based tracker." IEEE Transactions on Image Processing 31 (2022): 7116-7129.
